@@ -24,7 +24,7 @@ The essence of this project revolves around developing a comprehensive forward k
 - Derived mathematical models to capture the transformation between each consecutively paired coordinate frame as functions of the robot’s configuration q.
 - Utilized established conventions like Denavit-Hartenberg (DH) where necessary, while also noting the distinction between intermediate frame origins under such conventions and the actual joint positions.
 
-- ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/b3ff37de-19a6-4029-b70b-66c07b8219ad)
+ ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/b3ff37de-19a6-4029-b70b-66c07b8219ad)
 
 
 ### Composing Transformations:
@@ -56,7 +56,7 @@ It's pivotal to note that while conventions like the Denavit-Hartenberg (DH) wer
 ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/0b402235-710d-415d-960a-e700a507dc17)
 
 
-# Reachable workspace analysis:
+## Reachable workspace analysis:
 
 The reachanble workspace analysis was done and simulated using matplot lib to check the possible positions, the robot could reach.
 
