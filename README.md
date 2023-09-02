@@ -73,7 +73,7 @@ It's pivotal to note that while conventions like the Denavit-Hartenberg (DH) wer
 
 ## Reachable workspace analysis:
 
-The reachanble workspace analysis was done and simulated using matplot lib to check the possible positions, the robot could reach.
+The reachable workspace analysis was done and simulated using matplot lib to check the possible positions, the robot could reach.
 
 ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/e9b2053a-b892-4f5d-af89-41b217f59985)
 
