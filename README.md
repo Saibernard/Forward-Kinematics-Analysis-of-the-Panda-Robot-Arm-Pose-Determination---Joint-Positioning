@@ -65,7 +65,8 @@ It's pivotal to note that while conventions like the Denavit-Hartenberg (DH) wer
 
 #### Hardware Results:
 
-![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/77a7791d-0db7-44d1-9367-94f24e7ab74c)
+![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/d72f0e72-8d4e-478f-9ce5-11fd8575df5c)
+
 
 
 
