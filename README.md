@@ -46,14 +46,27 @@ It's pivotal to note that while conventions like the Denavit-Hartenberg (DH) wer
 
 𝑞 = [π/2, 0, π/4, -π/2, -π/2, π/2, 0]
 
+#### Simulation in RViz:
 
 ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/d950fb4e-84e6-438a-a6ac-ec99789125bc)
+
+#### Hardware Results:
+
+![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/3c02d2dc-8071-4be3-8041-78468a8e3e83)
+
 
 ### Joint angles configuration 2: 
 
 𝑞 = [0, 0, 0, -π/2, 0, π/2, 0]
 
+#### Simulation in RViz:
+
 ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/0b402235-710d-415d-960a-e700a507dc17)
+
+#### Hardware Results:
+
+![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/77a7791d-0db7-44d1-9367-94f24e7ab74c)
+
 
 
 ## Reachable workspace analysis:
