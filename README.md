@@ -14,6 +14,12 @@ The essence of this project revolves around developing a comprehensive forward k
 - Every link of the Panda robot was assigned a unique coordinate frame.
 - Established a consistent frame convention for the entire class: the end effector frame (originated between the gripper fingers, with the z-axis pointing in the approach direction and the y-axis along the sliding direction) and the world frame (located on the axis of the first joint, at the robot's mounting point).
 
+  ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/30663e43-90e2-416b-8837-ff636e5ddceb)
+  
+  ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/b54547fc-da7e-4c68-8ecb-85c1f042307d)
+
+
+
 ### Relative Transformations:
 - Derived mathematical models to capture the transformation between each consecutively paired coordinate frame as functions of the robot’s configuration q.
 - Utilized established conventions like Denavit-Hartenberg (DH) where necessary, while also noting the distinction between intermediate frame origins under such conventions and the actual joint positions.
