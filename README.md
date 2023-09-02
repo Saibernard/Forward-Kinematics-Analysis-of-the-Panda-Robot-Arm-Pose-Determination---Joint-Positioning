@@ -42,21 +42,21 @@ It's pivotal to note that while conventions like the Denavit-Hartenberg (DH) wer
 
 ## FK Results
 
-Joint angles configuration 1: 
+### Joint angles configuration 1: 
 
-𝑞 = \[\frac{\pi}{2}, 0, \frac{\pi}{4}, -\frac{\pi}{2}, -\frac{\pi}{2}, \frac{\pi}{2}, 0\]
+𝑞 = [π/2, 0, π/4, -π/2, -π/2, π/2, 0]
 
 
 ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/d950fb4e-84e6-438a-a6ac-ec99789125bc)
 
-Joint angles configuration 2: 
+### Joint angles configuration 2: 
 
 𝑞 = [0, 0, 0, -π/2, 0, π/2, 0]
 
 ![image](https://github.com/Saibernard/Forward-Kinematics-Analysis-of-the-Panda-Robot-Arm-Pose-Determination---Joint-Positioning/assets/112599512/0b402235-710d-415d-960a-e700a507dc17)
 
 
-Reachable workspace analysis:
+# Reachable workspace analysis:
 
 The reachanble workspace analysis was done and simulated using matplot lib to check the possible positions, the robot could reach.
 
